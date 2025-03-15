@@ -1,0 +1,151 @@
+(footprint "Panel_2HP"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 5.1 6.1 0)
+		(layer "F.Fab")
+		(uuid "81607027-e89e-4c4b-ad99-e9380323b113")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "Panel_2HP"
+		(at 4.75 -1 0)
+		(layer "F.Fab")
+		(uuid "6d28e8ab-86a0-435d-89e6-c21d0968536b")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "a215784d-fb25-4aed-8a68-9b39683f9e0f")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "3c69d66b-aca3-4f7d-8fba-bd62f3d333c5")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "85622d4f-8dc8-4067-aae3-100b65ea31c1")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_line
+		(start 0 0)
+		(end 10 0)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "1aaf2400-4619-4094-b80e-0a8700d794f5")
+	)
+	(fp_line
+		(start 0 9)
+		(end 10 9)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "27923d23-0117-43c3-b640-39281215b2f3")
+	)
+	(fp_line
+		(start 0 119.5)
+		(end 10 119.5)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "e88bf44d-7d14-460f-bf11-e7182b2da6fd")
+	)
+	(fp_line
+		(start 0 125.5)
+		(end 10 125.5)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "cd4786b1-59f7-49cd-bbd9-d0b589a532b0")
+	)
+	(fp_line
+		(start 0 128.5)
+		(end 0 0)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "571755b6-1856-4086-aae4-15d0b6402f19")
+	)
+	(fp_line
+		(start 10 0)
+		(end 10 128.5)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "d1cfdc54-4a6d-47ee-8c86-5b9e6ef2113f")
+	)
+	(fp_line
+		(start 10 128.5)
+		(end 0 128.5)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "38a50751-d30e-47c2-a0dd-2c2203821ad0")
+	)
+	(pad "" thru_hole oval
+		(at 5 3)
+		(size 7 4.2)
+		(drill oval 6 3.2)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "59a454ac-6929-4599-9aab-8baeb91daf23")
+	)
+	(pad "" thru_hole oval
+		(at 5 125.5)
+		(size 7 4.2)
+		(drill oval 6 3.2)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "6dc5f7e1-8ac7-47ac-86f4-da45f87c68d7")
+	)
+)
