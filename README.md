@@ -4,6 +4,9 @@ Modulus is a continuation of my journey within hack club's YSWS hackpad v2. This
 ## Bill of Materials
 * Does not include taxes, I'll need ~$5 extra for taxes / price changes since (estimate)
 
+Microcontrollers:
+- 2x Orpheus Pico's (provided)
+
 Switches ($16.64):
 - 50pcs MX Smoothie Linear Switch (Vendor: Ali Express) $16.64 + free shipping ($16.64) https://www.aliexpress.us/item/3256806266174812.html?gatewayAdapt=glo2usa4itemAdapt
 
