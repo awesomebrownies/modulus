@@ -1,5 +1,5 @@
 # Modulus
-Modulus is a continuation of my journey within hack club's YSWS hackpad v2. This board features **reversible** PCB's, saving on cost. It has a **separated thumb cluster** and a column stagger layout allowing for ergonomic hand placement
+Modulus is a continuation of my journey within hack club's YSWS hackpad v2. This board features **reversible** PCB's, saving on cost. It has a **separated thumb cluster** utilizing **ribbon cables** and a column stagger layout allowing for ergonomic hand placement.
 
 ## Bill of Materials
 * Does not include taxes, I'll need ~$5 extra for taxes / price changes since (estimate)
