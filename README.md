@@ -4,23 +4,23 @@ Modulus is a continuation of my journey within hack club's YSWS hackpad v2. This
 ## Bill of Materials
 * Does not include taxes, I'll need ~$5 extra for taxes / price changes since (estimate)
 
-Microcontrollers:
-- 2x Orpheus Pico's (warehouse)
+Microcontrollers ($8):
+- 2x Orpheus Pico's or Raspberry pi picos (warehouse) $8 + free shipping ($8) https://vilros.com/products/raspberry-pi-pico
 
 Switches ($16.64):
 - 50pcs MX Smoothie Linear Switch (Vendor: Ali Express) $16.64 + free shipping ($16.64) https://www.aliexpress.us/item/3256806266174812.html?gatewayAdapt=glo2usa4itemAdapt
 
 Keycaps ($22):
-- SA Geoma (Vendor: Signature Plastics, Keycap set) $17 + $5 shipping ($22) https://spkeyboards.com/collections/sa-keycaps/products/sa-geoma-keycaps
+- Honey Milk Keycaps (Vendor: Amazon, Keycap set) $22 + free shipping ($22) https://www.amazon.com/Keycaps-Minimalist-Compatible-Mechanical-Keyboards/dp/B0948XRKCQ/
 
 Electronic Components ($6.15):
 - Kailh Hotswap Socket (Vendor: Ali Express) $6.15 + free shipping ($6.15)
 
-Grant ($11.13):
-- 2x PCB (Vendor: JLCPCB) ~$5? + $1.50 shipping ($7.50)
+Grant ($19.61):
+- 2x PCB (Vendor: JLCPCB) $5 + $10.98 shipping ($15.98)
 - Ribbon cable (Vendor: Ali Express) $1.63 + $2 shipping ($3.63)
 
-TOTAL: $60.92
+TOTAL: $72.40
 
 
 ![Screenshot from 2025-03-23 22-01-48](https://github.com/user-attachments/assets/d9e13946-eea9-4e3d-a760-a031157fefd7)
