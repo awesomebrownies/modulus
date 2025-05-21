@@ -13,14 +13,15 @@ Switches ($16.64):
 Keycaps ($22):
 - Honey Milk Keycaps (Vendor: Amazon, Keycap set) $22 + free shipping ($22) https://www.amazon.com/Keycaps-Minimalist-Compatible-Mechanical-Keyboards/dp/B0948XRKCQ/
 
-Electronic Components ($6.15):
+Electronic Components ($14.31):
 - Kailh Hotswap Socket (Vendor: Ali Express) $6.15 + free shipping ($6.15)
+- Mini Motor Disc (Vendor: Adafruit) $3 + $5.16 shipping ($8.16)
 
 Grant ($19.61):
 - 2x PCB (Vendor: JLCPCB) $5 + $10.98 shipping ($15.98)
 - Ribbon cable (Vendor: Ali Express) $1.63 + $2 shipping ($3.63)
 
-TOTAL: $72.40
+TOTAL: $85.56
 
 
 ![Screenshot from 2025-03-23 22-01-48](https://github.com/user-attachments/assets/d9e13946-eea9-4e3d-a760-a031157fefd7)
