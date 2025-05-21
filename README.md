@@ -15,7 +15,7 @@ Keycaps ($22):
 
 Electronic Components ($14.31):
 - Kailh Hotswap Socket (Vendor: Ali Express) $6.15 + free shipping ($6.15)
-- Mini Motor Disc (Vendor: Adafruit) $3 + $5.16 shipping ($8.16)
+- Mini Motor Disc (Vendor: Adafruit) $3 + $5.16 shipping ($8.16) https://www.adafruit.com/product/1201
 
 Grant ($19.61):
 - 2x PCB (Vendor: JLCPCB) $5 + $10.98 shipping ($15.98)
