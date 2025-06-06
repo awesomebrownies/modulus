@@ -7,8 +7,8 @@ Modulus is a continuation of my journey within hack club's YSWS hackpad v2. This
 Microcontrollers ($8):
 - 2x Orpheus Pico's or Raspberry pi picos (warehouse) $8 + free shipping ($8) https://vilros.com/products/raspberry-pi-pico
 
-Switches ($16.64):
-- 50pcs MX Smoothie Linear Switch (Vendor: Ali Express) $16.64 + free shipping ($16.64) https://www.aliexpress.us/item/3256806266174812.html?gatewayAdapt=glo2usa4itemAdapt
+Switches ($22.79):
+- 50pcs MX Smoothie Linear Switch (Vendor: Ali Express) $22.79 + free shipping ($22.79) https://www.aliexpress.us/item/3256806266174812.html?gatewayAdapt=glo2usa4itemAdapt
 
 Keycaps ($22):
 - Honey Milk Keycaps (Vendor: Amazon, Keycap set) $22 + free shipping ($22) https://www.amazon.com/Keycaps-Minimalist-Compatible-Mechanical-Keyboards/dp/B0948XRKCQ/
@@ -17,12 +17,12 @@ Electronic Components ($14.31):
 - Kailh Hotswap Socket (Vendor: Ali Express) $6.15 + free shipping ($6.15)
 - Mini Motor Disc (Vendor: Adafruit) $3 + $5.16 shipping ($8.16) https://www.adafruit.com/product/1201
 
-Grant ($19.61):
-- 2x PCB (Vendor: JLCPCB) $5 + $10.98 shipping ($15.98)
+Grant ($32.03):
+- 2x PCB (Vendor: JLCPCB) $5 + $10.98 shipping ($28.40)
 - Ribbon cable (Vendor: Ali Express) $1.63 + $2 shipping ($3.63)
 
 
-TOTAL: $85.56
+TOTAL: $99.13
 
 
 ![Screenshot from 2025-06-06 13-33-11](https://github.com/user-attachments/assets/da27e925-5cd9-4690-8884-dbea40ee350e)
