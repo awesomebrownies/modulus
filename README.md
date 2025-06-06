@@ -18,7 +18,7 @@ Electronic Components ($14.31):
 - Mini Motor Disc (Vendor: Adafruit) $3 + $5.16 shipping ($8.16) https://www.adafruit.com/product/1201
 
 Grant ($32.03):
-- 2x PCB (Vendor: JLCPCB) $5 + $10.98 shipping ($28.40)
+- 2x PCB (Vendor: JLCPCB) $14.26 + $14.14 shipping ($28.40)
 - Ribbon cable (Vendor: Ali Express) $1.63 + $2 shipping ($3.63)
 
 
