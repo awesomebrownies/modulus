@@ -1,8 +1,8 @@
 Category,Item Description,Vendor,Price,Shipping,Total,Link
-Microcontrollers,2x Orpheus Pico's or Raspberry Pi Picos,Vilros,$8.00,Free,$8.00,https://vilros.com/products/raspberry-pi-pico
+Microcontrollers,"2x Orpheus Pico's or Raspberry Pi Picos",Vilros,$8.00,Free,$8.00,https://vilros.com/products/raspberry-pi-pico
 Switches,50pcs MX Smoothie Linear Switch,AliExpress,$22.79,Free,$22.79,https://www.aliexpress.us/item/3256806266174812.html?gatewayAdapt=glo2usa4itemAdapt
 Keycaps,Honey Milk Keycaps (Keycap set),Amazon,$22.00,Free,$22.00,https://www.amazon.com/Keycaps-Minimalist-Compatible-Mechanical-Keyboards/dp/B0948XRKCQ/
-Electronic Components,Kailh Hotswap Socket,AliExpress,$6.42,Free,,
-Electronic Components,Mini Motor Disc,Adafruit,$3.00,$5.16,$14.31,https://www.adafruit.com/product/1201
-Grant,2x PCB,JLCPCB,$14.26,$14.14,,
-Grant,Ribbon Cable,AliExpress,$1.45,$1.99,$32.03,https://www.aliexpress.us/item/3256807375022913.html
+Electronic Components,Kailh Hotswap Socket,AliExpress,$6.42,Free,$14.31,https://www.aliexpress.us/item/3256803389452947.html
+Electronic Components,Mini Motor Disc,Adafruit,$3.00,$5.16,,$https://www.adafruit.com/product/1201
+Grant,2x PCB,JLCPCB,$14.26,$14.14,$32.03,N/A
+Grant,Ribbon Cable,AliExpress,$1.45,$1.99,,$https://www.aliexpress.us/item/3256807375022913.html
