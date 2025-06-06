@@ -21,10 +21,11 @@ Grant ($19.61):
 - 2x PCB (Vendor: JLCPCB) $5 + $10.98 shipping ($15.98)
 - Ribbon cable (Vendor: Ali Express) $1.63 + $2 shipping ($3.63)
 
+
 TOTAL: $85.56
 
 
-![Screenshot from 2025-03-23 22-01-48](https://github.com/user-attachments/assets/d9e13946-eea9-4e3d-a760-a031157fefd7)
+![Screenshot from 2025-06-06 13-33-11](https://github.com/user-attachments/assets/da27e925-5cd9-4690-8884-dbea40ee350e)
 ![Screenshot from 2025-03-23 22-03-59](https://github.com/user-attachments/assets/d7d5c615-b51b-4399-8808-e4cdcfd46d63)
 
 ![Screenshot from 2025-06-06 13-00-55](https://github.com/user-attachments/assets/b475d498-63d8-4307-bbc9-44f973845a75)
