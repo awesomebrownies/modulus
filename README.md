@@ -26,3 +26,7 @@ TOTAL: $85.56
 
 ![Screenshot from 2025-03-23 22-01-48](https://github.com/user-attachments/assets/d9e13946-eea9-4e3d-a760-a031157fefd7)
 ![Screenshot from 2025-03-23 22-03-59](https://github.com/user-attachments/assets/d7d5c615-b51b-4399-8808-e4cdcfd46d63)
+
+![Screenshot from 2025-06-06 13-00-55](https://github.com/user-attachments/assets/b475d498-63d8-4307-bbc9-44f973845a75)
+![Screenshot from 2025-06-06 13-01-10](https://github.com/user-attachments/assets/720f43f4-7261-4ff5-96b0-1b5e04ee5dfc)
+
