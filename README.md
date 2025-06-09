@@ -1,5 +1,7 @@
 # Modulus
-Modulus is a continuation of my journey within hack club's YSWS hackpad v2. This board features **reversible** PCB's, saving on cost. It has a **separated thumb cluster** utilizing **ribbon cables** and a column stagger layout allowing for ergonomic hand placement.
+Modulus is a continuation of my journey within hack club's YSWS hackpad v2. This board features **reversible** PCB's, saving on cost. It has a **separated thumb cluster** utilizing **ribbon cables** and a column stagger layout allowing for ergonomic hand placement. It also includes motors for **haptic feedback**, allowing main row modifiers to be used easily.
+
+The reasoning behind this creation is I wanted a keyboard with a comfortable thumb cluster. Typically a keyboard of this type costs hundreds of dollars to make (though it doesn't have a trackball). I wanted something custom and fun, but at a much lower budget. One of my previous keyboards used main row modifiers without a notification. This version includes motors for haptic feedback, improving user experience.
 
 ## Bill of Materials
 
