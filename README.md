@@ -31,12 +31,12 @@ A couple of tips to putting this together. For the thumb cluster PCB, solder the
     </tr>
     <tr>
       <td><strong>Switches</strong></td>
-      <td>50pcs MX Smoothie Linear Switch</td>
+      <td>70pcs MX Leobog Nimbus</td>
       <td>AliExpress</td>
-      <td>$22.79</td>
+      <td>$26.98</td>
       <td>Free</td>
-      <td><strong>$22.79</strong></td>
-      <td><a href="https://www.aliexpress.us/item/3256806266174812.html?gatewayAdapt=glo2usa4itemAdapt">Link</a></td>
+      <td><strong>$26.98</strong></td>
+      <td><a href="https://leobogtech.com/products/leobog-nimbus-linear-switch-v3?_pos=1&_sid=b133d82f5&_ss=r">Link</a></td>
     </tr>
     <tr>
       <td><strong>Keycaps</strong></td>
@@ -84,7 +84,7 @@ A couple of tips to putting this together. For the thumb cluster PCB, solder the
 
 
 
-TOTAL: $98.94
+TOTAL: $103.13
 
 
 ![Screenshot from 2025-06-06 13-33-11](https://github.com/user-attachments/assets/da27e925-5cd9-4690-8884-dbea40ee350e)
