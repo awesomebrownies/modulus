@@ -3,6 +3,8 @@ Modulus is a continuation of my journey within hack club's YSWS hackpad v2. This
 
 The reasoning behind this creation is I wanted a keyboard with a comfortable thumb cluster. Typically a keyboard of this type costs hundreds of dollars to make (though it doesn't have a trackball). I wanted something custom and fun, but at a much lower budget. One of my previous keyboards used main row modifiers without a notification. This version includes motors for haptic feedback, improving user experience.
 
+A couple of tips to putting this together. For the thumb cluster PCB, solder the bridges on the top side where the microcontroller is mounted for proper functionality. Other than that, you just need to connect the ribbon cable and everything else is standard for setting up any other ergo keyboard.
+
 ## Bill of Materials
 
 <table>
