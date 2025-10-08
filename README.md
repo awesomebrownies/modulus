@@ -31,11 +31,11 @@ A couple of tips to putting this together. For the thumb cluster PCB, solder the
     </tr>
     <tr>
       <td><strong>Switches</strong></td>
-      <td>70pcs MX Leobog Nimbus</td>
+      <td>45 pcs Rosewood Akko Switches</td>
       <td>AliExpress</td>
-      <td>$26.98</td>
+      <td>$16.99</td>
       <td>Free</td>
-      <td><strong>$26.98</strong></td>
+      <td><strong>$16.99</strong></td>
       <td><a href="https://leobogtech.com/products/leobog-nimbus-linear-switch-v3?_pos=1&_sid=b133d82f5&_ss=r">Link</a></td>
     </tr>
     <tr>
@@ -58,9 +58,9 @@ A couple of tips to putting this together. For the thumb cluster PCB, solder the
     </tr>
     <tr>
       <td>Mini Motor Disc</td>
-      <td>Adafruit</td>
+      <td>Aliexpress</td>
+      <td>$3.31</td>
       <td>$3.00</td>
-      <td>$5.16</td>
       <td><a href="https://www.adafruit.com/product/1201">Link</a></td>
     </tr>
     <tr>
