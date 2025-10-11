@@ -53,7 +53,7 @@ A couple of tips to putting this together. For the thumb cluster PCB, solder the
       <td>AliExpress</td>
       <td>$6.42</td>
       <td>Free</td>
-      <td rowspan="3"><strong>$20.24</strong></td>
+      <td rowspan="3"><strong>$14.27</strong></td>
       <td><a href="https://www.aliexpress.us/item/3256803389452947.html">Link</a></td>
     </tr>
     <tr>
@@ -66,9 +66,9 @@ A couple of tips to putting this together. For the thumb cluster PCB, solder the
     <tr>
       <td>SOD-123 Diode</td>
       <td>Aliexpress</td>
-      <td>$1.85</td>
-      <td>$5.86</td>
-      <td><a href="https://www.aliexpress.us/item/3256805274127409.html?spm=a2g0o.tesla.0.0.68c8nfBPnfBPEJ&afTraceInfo=1005005460442161__pc__c_ppc_item_bridge_pc_main__N5i1f34__1759904150847&gatewayAdapt=glo2usa4itemAdapt">Link</a></td>
+      <td>$1.54</td>
+      <td>Free</td>
+      <td><a href="https://www.aliexpress.us/item/2251832693131413.html">Link</a></td>
     </tr>
     <tr>
       <td rowspan="2"><strong>Grant</strong></td>
@@ -91,7 +91,7 @@ A couple of tips to putting this together. For the thumb cluster PCB, solder the
 
 
 
-TOTAL: $99.26
+TOTAL: $93.29
 
 
 ![Screenshot from 2025-06-06 13-33-11](https://github.com/user-attachments/assets/da27e925-5cd9-4690-8884-dbea40ee350e)
