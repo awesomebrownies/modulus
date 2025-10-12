@@ -91,7 +91,7 @@ A couple of tips to putting this together. For the thumb cluster PCB, solder the
 
 
 
-TOTAL: $93.29
+TOTAL: ~$89 (Depending on choice item selection)
 
 
 ![Screenshot from 2025-06-06 13-33-11](https://github.com/user-attachments/assets/da27e925-5cd9-4690-8884-dbea40ee350e)
