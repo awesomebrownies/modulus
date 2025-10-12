@@ -23,7 +23,7 @@ A couple of tips to putting this together. For the thumb cluster PCB, solder the
     <tr>
       <td><strong>Microcontrollers</strong></td>
       <td>2x Orpheus Pico's or Raspberry Pi Picos</td>
-      <td>Vilros</td>
+      <td>Aliexpress</td>
       <td>$8.00</td>
       <td>Free</td>
       <td><strong>$8.00</strong></td>
@@ -32,7 +32,7 @@ A couple of tips to putting this together. For the thumb cluster PCB, solder the
     <tr>
       <td><strong>Switches</strong></td>
       <td>45 pcs Rosewood Akko Switches</td>
-      <td>AliExpress</td>
+      <td>Amazon</td>
       <td>$16.99</td>
       <td>Free</td>
       <td><strong>$16.99</strong></td>
